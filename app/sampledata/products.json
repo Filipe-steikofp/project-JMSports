@@ -1,0 +1,68 @@
+{
+  "products": [
+  {
+  "imagem": "@drawable/malmo_drawable",
+  "nome": "Camisa Malmo 2021",
+  "preco": "R$ 299,90",
+  "descricao": "Dry Cooling",
+  "descricao2": "Silk de alta tecnologia",
+  "descricao3": "Ajustável ao corpo"
+    },
+    {
+      "imagem": "@drawable/alajuelens_2021",
+      "nome": "Camisa Alajuelense 2021",
+      "preco": "R$ 299,90",
+      "descricao": "Dry Cooling",
+      "descricao2": "Silk de alta tecnologia",
+      "descricao3": "Ajustável ao corpo"
+    },
+    {
+      "imagem": "@drawable/cluj_2021",
+      "nome": "Camisa Cluj 2021",
+      "preco": "R$ 299,90",
+      "descricao": "Dry Cooling",
+      "descricao2": "Silk de alta tecnologia",
+      "descricao3": "Ajustável ao corpo"
+    },
+    {
+      "imagem": "@drawable/djurgardens_2021",
+      "nome": "Camisa Djurgardens 2021",
+      "preco": "R$ 299,90",
+      "descricao": "Dry Cooling",
+      "descricao2": "Silk de alta tecnologia",
+      "descricao3": "Ajustável ao corpo"
+    },
+    {
+      "imagem": "@drawable/kashima_2021",
+      "nome": "Camisa Kashima Antlers 2021",
+      "preco": "R$ 299,90",
+      "descricao": "Dry Cooling",
+      "descricao2": "Silk de alta tecnologia",
+      "descricao3": "Ajustável ao corpo"
+    },
+    {
+      "imagem": "@drawable/salzburg_2021",
+      "nome": "Camisa Red Bull Salzburg 2021",
+      "preco": "R$ 299,90",
+      "descricao": "Dry Cooling",
+      "descricao2": "Silk de alta tecnologia",
+      "descricao3": "Ajustável ao corpo"
+    },
+    {
+      "imagem": "@drawable/sassuolo_2021",
+      "nome": "Camisa Sassuolo 2021",
+      "preco": "R$ 299,90",
+      "descricao": "Dry Cooling",
+      "descricao2": "Silk de alta tecnologia",
+      "descricao3": "Ajustável ao corpo"
+    },
+    {
+      "imagem": "@drawable/young_2021",
+      "nome": "Camisa Young Boys 2021",
+      "preco": "R$ 299,90",
+      "descricao": "Dry Cooling",
+      "descricao2": "Silk de alta tecnologia",
+      "descricao3": "Ajustável ao corpo"
+    }
+  ]
+}
